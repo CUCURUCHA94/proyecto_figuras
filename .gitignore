@@ -1,0 +1,5 @@
+#Eliminanos todos los archivos .txt
+*.txt
+
+#Hacemos una excepcion para importante
+!importante.txt
